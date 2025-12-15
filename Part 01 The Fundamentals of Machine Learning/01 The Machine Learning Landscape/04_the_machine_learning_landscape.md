@@ -38,8 +38,6 @@
   - Benefit: Averaging all evaluations provides a much more accurate measure of performance.
   - Drawback: Training time is multiplied by the number of validation sets (computationally expensive).
 
-Here is the enhanced English version for your notes. I have structured it to clearly distinguish between the two types of errors, capturing the logic we discussed.
-
 ### Data Mismatch
 
 - The Context:
