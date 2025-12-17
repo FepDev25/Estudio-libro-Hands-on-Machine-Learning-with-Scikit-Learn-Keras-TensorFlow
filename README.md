@@ -13,7 +13,7 @@ Este repositorio contiene mis notas, ejercicios y proyectos del libro **Hands-on
 
 - En progreso...
 
-## 🎯 Objetivo
+## Objetivo
 
 Documentar mi proceso de aprendizaje en Machine Learning, incluyendo:
 
